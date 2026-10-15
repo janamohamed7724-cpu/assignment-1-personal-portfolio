@@ -1,0 +1,199 @@
+.project1{
+    width: 100%;
+    background-color: rgb(10, 10, 39);
+    color: white;
+    padding-block: 20px;
+    text-align: center;
+    border-radius: 20px;
+   
+}
+ 
+a{
+    color: white;
+    margin-right: 15px;
+}
+
+div{
+      background-color: whitesmoke;
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 18px;
+    width: 100%;
+}
+
+div h2{
+     color: #1d4e7c;
+    font-size: 22px;
+    font-weight: 600;
+    border-bottom: 1px solid #e2e8f0;
+}
+div p{
+     font-size: 20px;
+    margin-bottom: 14px
+}
+
+.aboute-contant{
+     display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 5px 10px;
+}
+
+
+.img{
+     width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50% ;
+    
+}
+
+
+
+
+
+.skills{
+    background-color:whitesmoke;
+    padding: 30px;
+    border-radius: 20px;
+    margin: 20px auto;
+    width: 100%;
+    display: block;
+rgb(0, 0, 0, 0.05);
+}
+
+
+.skills h2{
+    color: #204c75;
+
+}
+
+.skills hr{
+    border:none;
+    border-top: 1px solid #ddd;
+    margin-bottom: 25px;
+}
+
+
+.skills-container{
+    display: flex;
+    gap: 20px;
+    margin-top: 25px;
+    border-radius: 20px;
+    width: 100%;
+    
+}
+.box{
+    flex: 1;
+    padding: 20px;
+    width: 25%;
+    border: 1px solid #e5eaf0;
+    border-radius: 15px;
+    background-color: #fbecfe;
+   align-items: center;
+    rgb(0, 0, 0, 0.04)
+}
+ 
+.box h3{
+    color: #28618e;
+}
+
+
+.experience-section {
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+.experience-section h2 {
+    color: #123e5a;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 15px;
+}
+
+.experience-card {
+    background-color: #f8f9fc;
+    border-left: 5px solid #17618a;
+    border-radius: 15px;
+    padding: 25px;
+    margin-bottom: 25px;
+}
+
+.experience-top {
+    display: flex;
+    align-items: flex-start;
+    gap: 25px;
+}
+
+.experience-top img {
+    width: 85px;
+    height: 85px;
+    object-fit: cover;
+    border-radius: 12px;
+}
+
+.experience-info h3 {
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+
+.experience-info h4 {
+    color: #17618a;
+    margin-bottom: 20px;
+}
+
+.experience-info p {
+    margin-bottom: 0;
+}
+
+.description {
+
+    margin-top: 25px;
+    line-height: 1.6;
+}
+ .contact {
+    background-color: #1e4d7b;
+    color: white;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.contact h2 {
+    color: white;
+    margin-top: 0;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #35638d;
+}
+
+.contact p {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.contact-links {
+    display: flex;
+    gap: 15px;
+}
+
+
+
+
+.contact-links a:hover {
+    background-color: #4779a8;
+}
+.finall{
+    background-color: #041c2b;
+    color: white;
+    width: 100%;
+    
+}
+
+.hamada{
+    
+    text-align: center;
+}
+
+
+
+
+
